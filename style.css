@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+    background: gold;
+}
+
+h2 {
+    color: purple;
+    font-weight: bold;
+    border: 25px solid orange;
+}
+
+section {
+    width: 50%;
+    height: 200px;
+    background: gray;
+    border: black;
+    color: white;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace; 
+    background: black;
+    border: 2px lightgreen solid;
+    font-size: 20px;
+    color: white;
+}
